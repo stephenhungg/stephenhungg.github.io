@@ -60,5 +60,21 @@ Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills
 + Completed six courses developed by Google designed to provide skills in Python, Git, and IT automation. Developed strong foundation in how to use Git and GitHub, troubleshoot and solve problems, and apply automation at scale by using configuration management and the Cloud.
 
 
+### Interests
+
+#### Making low effort TikTok posts
++ I love sh*tposting on my TikTok
+[TikTok](https://www.tiktok.com/@stephen0317___)
+
+#### Video Games
++ I play League of Legends, TFT, Valorant, etc.
+[tft masters ss](https://imgur.com/a/5CIkRmS)
+
+#### Boba
++ My go to order is honey lemon green tea with lychee jelly
+
+#### Just chatting
++ I like to just chill and talk with my friends
+
 
 
