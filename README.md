@@ -2,6 +2,7 @@
 
 ### About Me
 Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills. Looking for ways to apply my skills in academia or industry. If you would like to contact me, my email is **stephenhung@berkeley.edu**.
+[Resume](https://docs.google.com/document/d/18QpKh9GSeyRSIHlJUAhpbWNwB6iaHQbI1kz3gn_AJLY/edit?usp=sharing)
 
 ### Projects
 
