@@ -63,7 +63,7 @@ Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills
 ### Interests
 
 #### Making low effort TikTok posts
-+ I love sh*tposting on my TikTok
++ I love posting on my TikTok
 [TikTok](https://www.tiktok.com/@stephen0317___)
 
 #### Video Games
