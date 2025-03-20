@@ -64,7 +64,6 @@ Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills
 
 #### Making low effort TikTok posts
 + I love posting on my TikTok
-[TikTok](https://www.tiktok.com/@stephen0317___)
 
 #### Video Games
 + I play League of Legends, TFT, Valorant, etc.
